@@ -1,3 +1,14 @@
+[![CI/CD Pipeline](https://github.com/ValenMR/Laboratorio_2_Arquisoft/actions/workflows/build.yml/badge.svg)](https://github.com/ValenMR/Laboratorio_2_Arquisoft/actions/workflows/build.yml)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ValenMR_Laboratorio_2_Arquisoft&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ValenMR_Laboratorio_2_Arquisoft)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ValenMR_Laboratorio_2_Arquisoft&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ValenMR_Laboratorio_2_Arquisoft)
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ValenMR_Laboratorio_2_Arquisoft&metric=coverage)](https://sonarcloud.io/summary/new_code?id=ValenMR_Laboratorio_2_Arquisoft)
+
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ValenMR_Laboratorio_2_Arquisoft&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ValenMR_Laboratorio_2_Arquisoft)
+
+
 Implementation of a Simple App with the next operations:
 
 
